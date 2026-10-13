@@ -1,0 +1,5 @@
+window_index,window_start,window_end,n_bins_tested,n_bins_detected,strongest_ratio,detected,threshold_ratio,target_period_min,period_tolerance_frac,detect_percentile,min_bins_detected,central_window_only,padding_minutes
+0,2019-04-02T18:00:00,2019-04-02T19:00:00,10,0,89.87593488191946,False,200.58740912273953,4.0,0.25,90.0,1,True,30
+1,2019-04-02T19:00:00,2019-04-02T20:00:00,10,2,4081.3981078598467,True,200.58740912273953,4.0,0.25,90.0,1,True,30
+2,2019-04-02T20:00:00,2019-04-02T21:00:00,10,2,232.53609222116447,True,200.58740912273953,4.0,0.25,90.0,1,True,30
+3,2019-04-02T21:00:00,2019-04-02T22:00:00,10,0,146.57045424381488,False,200.58740912273953,4.0,0.25,90.0,1,True,30
